@@ -1,2 +1,2 @@
 # boilerplate-typescript-express
-it help fastly to use the combination typescript-express.js with structured architecture using the paths aliases
+it helps to use fastly the combination typescript-express.js with structured architecture using the paths aliases
