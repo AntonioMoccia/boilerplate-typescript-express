@@ -30,18 +30,18 @@
      "moduleResolution": "node",                       /* Specify how TypeScript looks up a file from a given module specifier. */
      "baseUrl": ".",                                  /* Specify the base directory to resolve non-relative module names. */
      "paths": {
-      "@Config":["./src/Config/*","./src/Config"],
-      "@Config/*":["./src/Config/*","./src/Config"],
-      "@Controllers":["./src/Controllers/*","./src/Controllers"],
-      "@Controllers/*":["./src/Controllers/*","./src/Controllers"],
-      "@Middelwares":["./src/Middelwares/*","./src/Middelwares"],
-      "@Middelwares/*":["./src/Middelwares/*","./src/Middelwares"],
-      "@Models":["./src/Models/*","./src/Models"],
-      "@Models/*":["./src/Models/*","./src/Models"],
-      "@Routes":["./src/Routes/*","./src/Routes"],
-      "@Routes/*":["./src/Routes/*","./src/Routes"],
-      "@Services":["./src/Services/*","./src/Services"],
-      "@Services/*":["./src/Services/*","./src/Services"],
+      "@config":["./src/config/*","./src/config"],
+      "@config/*":["./src/config/*","./src/config"],
+      "@controllers":["./src/controllers/*","./src/controllers"],
+      "@controllers/*":["./src/controllers/*","./src/controllers"],
+      "@middelwares":["./src/middelwares/*","./src/middelwares"],
+      "@middelwares/*":["./src/middelwares/*","./src/middelwares"],
+      "@models":["./src/models/*","./src/models"],
+      "@models/*":["./src/models/*","./src/models"],
+      "@routes":["./src/routes/*","./src/routes"],
+      "@routes/*":["./src/routes/*","./src/routes"],
+      "@services":["./src/services/*","./src/services"],
+      "@services/*":["./src/services/*","./src/services"],
      },                                      /* Specify a set of entries that re-map imports to additional lookup locations. */
     // "rootDirs": [],                                   /* Allow multiple folders to be treated as one when resolving modules. */
     // "typeRoots": [],                                  /* Specify multiple folders that act like './node_modules/@types'. */
